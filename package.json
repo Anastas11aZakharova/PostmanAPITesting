@@ -1,0 +1,13 @@
+{
+  "name": "postman-api-testing",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+   
+  },
+  "keywords": ["api","mock","rest"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
