@@ -28,7 +28,7 @@ jobs:
       # Start local server
       - name: Start local server
         run: |
-          npm run tern-on-api          
+          npm run tern-on-api &          
 
       # Make directory to upload the test results
       - name: Make Directory for results
